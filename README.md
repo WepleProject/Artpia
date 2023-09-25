@@ -22,7 +22,7 @@ https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v5.0.0-rc.0/contract
 
 위 오픈제플린을 보면 "/" 구분자를 BaseURI와 TokenID 사이에 넣어주지 않으니
 
-꼭 BaseURI를 설정할 때 주소가 http://baseURI.xyz이라면 http://baseURI.xyz/ 으로 설정해줘야 합니다.
+꼭 BaseURI를 설정할 때 주소가 http://baseURI.xyz 이라면 http://baseURI.xyz/ 으로 설정해줘야 합니다.
 
 
  
